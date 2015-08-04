@@ -15,3 +15,5 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+Collaborated with Evan, Jeff, James and Alex from class.
+Found this resource for the last problem for the string array: http://stackoverflow.com/questions/7743582/trying-to-capitalize-the-first-character-in-array-of-strings-why-this-is-not-wo
